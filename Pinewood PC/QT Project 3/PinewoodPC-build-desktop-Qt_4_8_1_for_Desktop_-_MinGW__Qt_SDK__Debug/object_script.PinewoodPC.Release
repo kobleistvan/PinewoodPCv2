@@ -1,0 +1,14 @@
+INPUT(
+./release/main.o
+./release/pinewoodpc.o
+./release/racer.o
+./release/repository.o
+./release/controller.o
+./release/prioritylist.o
+./release/viewracers.o
+./release/manageracers.o
+./release/moc_pinewoodpc.o
+./release/moc_prioritylist.o
+./release/moc_viewracers.o
+./release/moc_manageracers.o
+);

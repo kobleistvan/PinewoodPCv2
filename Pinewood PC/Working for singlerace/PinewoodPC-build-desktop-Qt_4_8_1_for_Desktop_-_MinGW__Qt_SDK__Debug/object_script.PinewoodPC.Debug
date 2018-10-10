@@ -1,0 +1,14 @@
+INPUT(
+./debug/main.o
+./debug/pinewoodpc.o
+./debug/racer.o
+./debug/repository.o
+./debug/controller.o
+./debug/viewracers.o
+./debug/prioritylist.o
+./debug/manageracers.o
+./debug/moc_pinewoodpc.o
+./debug/moc_viewracers.o
+./debug/moc_prioritylist.o
+./debug/moc_manageracers.o
+);
